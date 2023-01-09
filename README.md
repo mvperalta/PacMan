@@ -7,7 +7,7 @@
     <h1>Exercise Description</h1>
   </header>
 </article>
-<p> The PacMen Exercise is an exercise that was assigned in Module 7 of the Professional Certificate in Coding: Full Stack Development with MERN bootcamp. The goal of this exercise was to create a pacman on the page. Javascript arrays generated the pacman once 'Add Pacman' is pressed. The pacman then moved across the page as it's mouth moved in a chomping formation. The second part of the exercise was to change the direction of the Pacman so that it moved across the page in the opposite direction. </p>
+<p> The PacMen Exercise is an exercise that was assigned in Module 7 of the Professional Certificate in Coding: Full Stack Development with MERN bootcamp. The goal of this exercise was to create a pacman on the page. Javascript arrays generated the pacman to move across the page as it's mouth moved in a chomping formation. The second part of the exercise was to change the direction of the Pacman so that it moved across the page in the opposite direction. </p>
 <article>
   <header>
     <h1>How to Run the Exercise</h1>
