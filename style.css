@@ -1,0 +1,16 @@
+body {
+    background-color: #ffed4b;
+    background: rgb(243, 243, 239);
+}
+
+.button {
+    border: 3px solid #349fe1;
+    background-color: transparent;
+    color: #1a756b;
+    transition: all .25s ease-in-out;
+}
+
+.button:hover {
+    background-color: #ed21e9;
+    color: #ab6daa;
+}
